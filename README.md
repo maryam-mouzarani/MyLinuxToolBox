@@ -30,7 +30,7 @@
     -sudo apt install mysql-server 
     -sudo apt-get install gettext
     -sudo apt-get install -y phpmyadmin php-mbstring 
-    - a geeod tutorial on how to install and setup phpmyadmin: https://muhamadanjar.medium.com/install-phpmyadmin-on-ubuntu-4269aea8b6f
+    - a good tutorial on how to install and setup phpmyadmin: https://muhamadanjar.medium.com/install-phpmyadmin-on-ubuntu-4269aea8b6f
     
   
  
