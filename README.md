@@ -32,7 +32,24 @@
     -sudo apt-get install -y phpmyadmin php-mbstring 
     - a good tutorial on how to install and setup phpmyadmin: https://muhamadanjar.medium.com/install-phpmyadmin-on-ubuntu-4269aea8b6f
     
-  
+ -install Rest_frameWork:
+      -pip install djangorestframework
+ -install pjango-filters:
+       -pip install django-filter
+ -install debug-toolbar
+      -https://django-debug-toolbar.readthedocs.io/en/latest/
+ -install mysql client 
+       -sudo apt install libmysqlclient-dev
+       -pipenv install mysqlclient
+ -install nested route framework
+        -pip install drf-nested-routers
+ -Prepare project
+      -pipenv install (Remove the older PipFile first)
+      -pipenv shell
+      -python manage.py makemigrations
+      -python manage.py migrate
+      
+      
  
 
     
